@@ -132,7 +132,7 @@ canvas {
 #nav > button {
   padding: 10px 20px;
   border-radius: 50px;
-  background-color: #000;
+  background-color: red;
   color: #fff;
   border: none;
 }
